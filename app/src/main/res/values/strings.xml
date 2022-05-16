@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Repaso1</string>
+    <string name="edit_text_valor">Ingrese un Valor</string>
+    <string name="button_enviar">Enviar</string>
+    <string name="edit_text_valor_recibido">Valor Recibido</string>
+    <string name="edit_text_valor_recibido2">Escriba un Valor</string>
+    <string name="edit_text_valor_resultdado_segundo_activity">Resultado</string>
+    <string name="button_enviar2">Enviar</string>
+    <string name="button_multiplicar_segundo_activity">Multiplicar</string>
+    <string name="edit_text_recibido_activity_3">Recibido</string>
+    <string name="button_siguiente_activity4">Siguiente</string>
+    <string name="text_view_titulo_activity4">Lista de Valores</string>
+</resources>
